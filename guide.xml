@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Discovery Theater">
+    <display-name lang="pt">Discovery Theater</display-name>
+    <icon src="http://www.lineup.tv.br/canais/ctv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Telecine Cult ">
+    <display-name lang="pt">Telecine Cult </display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <icon src="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox.png" />
+    <url>http://www.foxplaybrasil.com.br</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+</tv>
